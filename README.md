@@ -1,6 +1,6 @@
 # 🚀 LeetCode - Top Interview 150
 
-These are my personal solutions to the LeetCode Top Interview 150 problems, solved for fun and learning in the original king of programming languages — # C.
+These are my personal solutions to the LeetCode Top Interview 150 problems, solved for fun and learning in the original king of programming languages — **C**.
 
 ---
 
